@@ -1,0 +1,17 @@
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\bin\Debug\net8.0-windows\CFF_Clock.exe
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\bin\Debug\net8.0-windows\CFF_Clock.deps.json
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\bin\Debug\net8.0-windows\CFF_Clock.runtimeconfig.json
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\bin\Debug\net8.0-windows\CFF_Clock.dll
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\bin\Debug\net8.0-windows\CFF_Clock.pdb
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\obj\Debug\net8.0-windows\CFF_Clock.Form1.resources
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\obj\Debug\net8.0-windows\CFF_Clock.csproj.GenerateResource.cache
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\obj\Debug\net8.0-windows\CFF_Clock.GeneratedMSBuildEditorConfig.editorconfig
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\obj\Debug\net8.0-windows\CFF_Clock.AssemblyInfoInputs.cache
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\obj\Debug\net8.0-windows\CFF_Clock.AssemblyInfo.cs
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\obj\Debug\net8.0-windows\CFF_Clock.csproj.CoreCompileInputs.cache
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\obj\Debug\net8.0-windows\CFF_Clock.dll
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\obj\Debug\net8.0-windows\refint\CFF_Clock.dll
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\obj\Debug\net8.0-windows\CFF_Clock.pdb
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\obj\Debug\net8.0-windows\CFF_Clock.genruntimeconfig.cache
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\obj\Debug\net8.0-windows\ref\CFF_Clock.dll
+E:\005_SoftwareDev\CFF_Clock\CFF_Clock\obj\Debug\net8.0-windows\CFF_Clock.Properties.Resources.resources
